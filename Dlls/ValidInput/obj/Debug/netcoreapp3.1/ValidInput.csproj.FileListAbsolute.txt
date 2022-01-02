@@ -1,0 +1,8 @@
+E:\.Net\C#\Dlls\ValidInput\bin\Debug\netcoreapp3.1\ValidInput.deps.json
+E:\.Net\C#\Dlls\ValidInput\bin\Debug\netcoreapp3.1\ValidInput.dll
+E:\.Net\C#\Dlls\ValidInput\bin\Debug\netcoreapp3.1\ValidInput.pdb
+E:\.Net\C#\Dlls\ValidInput\obj\Debug\netcoreapp3.1\ValidInput.csprojAssemblyReference.cache
+E:\.Net\C#\Dlls\ValidInput\obj\Debug\netcoreapp3.1\ValidInput.AssemblyInfoInputs.cache
+E:\.Net\C#\Dlls\ValidInput\obj\Debug\netcoreapp3.1\ValidInput.AssemblyInfo.cs
+E:\.Net\C#\Dlls\ValidInput\obj\Debug\netcoreapp3.1\ValidInput.dll
+E:\.Net\C#\Dlls\ValidInput\obj\Debug\netcoreapp3.1\ValidInput.pdb

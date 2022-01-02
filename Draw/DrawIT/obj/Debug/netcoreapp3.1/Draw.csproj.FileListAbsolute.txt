@@ -1,0 +1,14 @@
+E:\.Net\C#\FunProjects\Draw\bin\Debug\netcoreapp3.1\Draw.exe
+E:\.Net\C#\FunProjects\Draw\bin\Debug\netcoreapp3.1\Draw.deps.json
+E:\.Net\C#\FunProjects\Draw\bin\Debug\netcoreapp3.1\Draw.runtimeconfig.json
+E:\.Net\C#\FunProjects\Draw\bin\Debug\netcoreapp3.1\Draw.runtimeconfig.dev.json
+E:\.Net\C#\FunProjects\Draw\bin\Debug\netcoreapp3.1\Draw.dll
+E:\.Net\C#\FunProjects\Draw\bin\Debug\netcoreapp3.1\Draw.pdb
+E:\.Net\C#\FunProjects\Draw\obj\Debug\netcoreapp3.1\Draw.csprojAssemblyReference.cache
+E:\.Net\C#\FunProjects\Draw\obj\Debug\netcoreapp3.1\Draw.AssemblyInfoInputs.cache
+E:\.Net\C#\FunProjects\Draw\obj\Debug\netcoreapp3.1\Draw.AssemblyInfo.cs
+E:\.Net\C#\FunProjects\Draw\obj\Debug\netcoreapp3.1\Draw.dll
+E:\.Net\C#\FunProjects\Draw\obj\Debug\netcoreapp3.1\Draw.pdb
+E:\.Net\C#\FunProjects\Draw\bin\Debug\netcoreapp3.1\ValidInput.dll
+E:\.Net\C#\FunProjects\Draw\bin\Debug\netcoreapp3.1\ValidInput.pdb
+E:\.Net\C#\FunProjects\Draw\obj\Debug\netcoreapp3.1\Draw.csproj.CopyComplete
